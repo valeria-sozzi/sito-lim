@@ -1,0 +1,72 @@
+body{
+    background-image: url("img/background.jpg");
+    background-size: 100%;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.container{
+   width: 900px;
+   height: 600px;
+   background-color: rgb(0, 0, 0,0.6);
+   border-radius: 3%;
+   margin: auto;
+}
+
+.logo{
+    text-align: center;
+    padding-top: 50px;
+}
+
+#div-logo{
+    width: 200px;
+    height: 100px;
+}
+
+div > h2{
+    text-align: center;
+    color: #00dd01;
+    font-size: 30px;
+    margin-top: 0;
+}
+
+nav{
+    background-color:#00dd01;
+    padding: 15px;
+    width: 800px;
+    margin:auto;
+    text-align: center;
+}
+
+main{
+    margin: 30px;
+}
+
+.clienti{
+    display: inline-block;
+    font-size: 20px;
+}
+
+#carica-orange{
+    padding: 10px;
+    background-color:#f5b452;
+    width: 250px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+#carica-green{
+    padding: 10px;
+    background-color:#00dd01;
+    width: 500px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+#carica-red{
+    padding: 10px;
+    background-color:#be4141;
+    width: 100px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
